@@ -1,3 +1,1 @@
 # Walter Seethaler
-
-Hallo Walter!
