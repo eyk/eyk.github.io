@@ -38,3 +38,11 @@
     - Beispiel: https://www.sitefusion.de/en/solutions/
     - https://www.deepl.com/de/pro?cta=header-pro
     - Mehrsprachigkeit: https://gohugo.io/content-management/multilingual/
+
+![Alt text](image.png)
+
+```XQuery
+declare foo;
+<foo></foo>
+
+```
