@@ -1,7 +1,6 @@
 # Walter Seethaler
 
 - Was ist ein zeitgemäßer Doku-Workflow?
-    - docs.sitefusion.com / docs.sitefusion.de/en
 - Typische Doku für Entwickler-Tools
     - https://code.visualstudio.com/docs
         - SiteFusion Developer / SiteFusion Core Developer
@@ -39,7 +38,7 @@
     - https://www.deepl.com/de/pro?cta=header-pro
     - Mehrsprachigkeit: https://gohugo.io/content-management/multilingual/
 
-![Alt text](image.png)
+![Alt text](image-1.png)
 
 ```XQuery
 declare foo;
