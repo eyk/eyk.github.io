@@ -3,7 +3,6 @@
 - Was ist ein zeitgemäßer Doku-Workflow?
 - Typische Doku für Entwickler-Tools
     - https://code.visualstudio.com/docs
-        - SiteFusion Developer / SiteFusion Core Developer
     - https://developer.hashicorp.com/packer/docs
     - GitHub-Pages (und GitHub-Actions)
         - https://github.com/eyk/eyk.github.io
